@@ -1,6 +1,6 @@
 # jupyter-sql-example
 
-Example Jupyter Notebooks demonstrating how to make a DMBS connection, query a database, and display the results.
+Example Jupyter Notebooks demonstrating how to make a connection, query a database, and display the results.
 
 ## Introduction
 
@@ -11,6 +11,7 @@ This repository provides examples of connecting to databases and running queries
 ## Notebooks
 
 - [mssql](mssql.ipynb)
+- [sqlite](sqlite.ipynb)
 
 ## Dependencies
 
